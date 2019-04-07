@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<unistd.h>
 int main(){
-
+int file_array[2];
 return 0;
 }
