@@ -4,6 +4,7 @@
 #include<unistd.h>
 #include<sys/wait.h>
 int main(){
+    //int value_to_start=-1;
     int number;
     printf("Enter any random number.!\n");
     //taking the input from the user
