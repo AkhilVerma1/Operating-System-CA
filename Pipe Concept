@@ -2,5 +2,13 @@
 #include<unistd.h>
 int main(){
 int file_array[2];
+int return_type;
+int child_process_id;
+child_process_id=fork();
+if(child_process_id==0){
+printf("This is the child process.");
+}
 return 0;
+
+
 }
