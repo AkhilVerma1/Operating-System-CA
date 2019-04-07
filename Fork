@@ -6,6 +6,7 @@
 int main(){
     int number;
     printf("Enter any random number.!\n");
+    //taking the input from the user
     scanf("%d",&number);
     if(number<0){
         printf("Number is negative. Please enter a +ve number, try again.!\n");
