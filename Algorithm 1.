@@ -1,3 +1,0 @@
-Steps for making the child and parent process using the c program.
-Step1. Make the parent process just by creating the main method, the main method is the parent process by default.
-Step 2. Create the child process inside the parent process using the fork function.
