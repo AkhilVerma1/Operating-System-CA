@@ -1,4 +1,4 @@
-# Operating-ststem-CA
+# Operating-system-CA
 Ca 3
 Part 1.
 1. Write a C program using the fork() system call that generates this sequence in the child process. 
